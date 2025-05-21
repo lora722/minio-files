@@ -2,6 +2,10 @@
 
 基于 Vue 3 + Spring Boot + MinIO 实现的数据集文件管理系统。
 
+## 界面参考
+![img.png](img.png)
+
+![img_1.png](img_1.png)
 ## 功能特点
 
 - 支持文件上传（包括分片上传）
